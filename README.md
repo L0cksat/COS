@@ -226,7 +226,7 @@ Potential needs:
 
 Detailed persona definitions are documented in:
 
-[`docs/user-personas.md`] (docs/user-personas.md)
+[`docs/user-personas.md`](docs/user-personas.md)
 
 ---
 
@@ -748,9 +748,9 @@ Stephen Nicholas Jones De Giorgi
 
 Full-Stack Developer | Web Applications | Automation | AI
 
-[`https://github.com/L0cksat`] (GitHub)
-[`www.linkedin.com/in/stephen-nicholas-jones-de-giorgi-50668449`] (LinkedIn)
-[`https://stephennicholasjones.com`] (Portfolio)
+[`https://github.com/L0cksat`](GitHub)
+[`www.linkedin.com/in/stephen-nicholas-jones-de-giorgi-50668449`](LinkedIn)
+[`https://stephennicholasjones.com`](Portfolio)
 
 ---
 
