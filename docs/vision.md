@@ -210,4 +210,4 @@ COS exists to help people answer:
 
 > **Where am I, where do I want to go, and what should I do next?**
 
-The product should help users turn uncertainty into structure, structure into action, and action into measurable progress.
+Turn uncertainty into structure. Turn structure into action. Turn action into measurable progress.
